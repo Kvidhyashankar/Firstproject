@@ -1,4 +1,4 @@
-a=45
-b=20
-c=a+b
+a=50
+a=35
+c=a*b
 print(c)
